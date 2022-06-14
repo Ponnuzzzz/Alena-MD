@@ -1,5 +1,5 @@
 //═══════════════════════════════════════════════════════//
-// 𝚃𝙷𝙸𝚂 𝙱𝙶𝙼 𝙱𝙾𝚃 𝙲𝙾𝙳𝙴𝚁 𝙱𝚈 𝙰𝙱𝚄 
+// 𝚃𝙷𝙸𝚂 𝙱𝙶𝙼 𝙱𝙾𝚃 𝙲𝙾𝙳𝙴𝚁 𝙱𝚈 𝚁𝙴𝙱𝙴𝙻 
 // 𝚈𝙾𝚄𝚁 𝙴𝙳𝙸𝚃𝙸𝙽𝙶 𝙾𝚁 𝙲𝙾𝙿𝚈  
 // 𝚈𝙾𝚄 𝙲𝚁𝙴𝙳𝙸𝚃 𝚁𝙴𝙼𝙾𝚅𝙴 𝙱𝚄𝚃 
 // 𝙹𝙴𝚂𝚃 𝚂𝙰𝙿𝙿𝙾𝚁𝚃 𝙼𝙴 𝙿𝙻𝚉 
@@ -24,12 +24,12 @@ global.ownernomer = '917025994178'
 global.ownername = 'Owner Name'
 global.botname = 'Bot Name'
 global.caption = 'ғᴏʟʟᴏᴡ ᴍᴇ ɢɪᴛʜᴜʙ'
-global.footer = '© 𝙰𝙻𝙴𝙽𝙰 ™'
+global.footer = '© 𝚁𝙴𝙱𝙴𝙻 ™'
 global.ig = 'https://github.com/Afx-Abu'
 global.region = 'kerala'
 global.sc = 'https://github.com/Afx-Abu/Alena-MD'
 global.myweb = 'https://instagram.com/jsl._xr'
-global.packname = 'Alena'
+global.packname = '𝙰𝙲𝙷𝚄'
 global.author = 'Jsl'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
